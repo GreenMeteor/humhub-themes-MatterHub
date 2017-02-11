@@ -1,3 +1,5 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/badges/build.png?b=master)](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/build-status/master)
+
 # [Humhub](https://www.humhub.org/en) MatterHub
 
 # MatterHub
