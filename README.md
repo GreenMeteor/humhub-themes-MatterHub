@@ -1,5 +1,5 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/?branch=master) [![codecov](https://codecov.io/gh/GreenVolume/humhub-themes-MatterHub/branch/master/graph/badge.svg)](https://codecov.io/gh/GreenVolume/humhub-themes-MatterHub)
- [![Build Status](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/badges/build.png?b=master)](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/build-status/master) [![Join the chat at https://gitter.im/GVHub/Lobby](https://badges.gitter.im/GVHub/Lobby.svg)](https://gitter.im/GVHub/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+ [![Build Status](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/badges/build.png?b=master)](https://scrutinizer-ci.com/g/GreenVolume/humhub-themes-MatterHub/build-status/master) [![Join the chat at https://gitter.im/GreenVolume](https://badges.gitter.im/GreenVolume.svg)](https://gitter.im/GreenVolume?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # [Humhub](https://www.humhub.org/en) MatterHub
 
