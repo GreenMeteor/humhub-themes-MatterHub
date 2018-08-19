@@ -11,7 +11,7 @@ MatterHub is a new theme for the Social Network Kit known simply as Humhub, this
 >Notice: This theme is still under development and will not be uploaded till finished!
 
 ## Help Guide
-You'll find this [Help Guide](https://github.com/GreenVolume/humhub-themes-MatterHub/wiki) helpful. ;)
+You'll find this [Help Guide](/docs/help/guide.md) helpful. ;)
 
 ## Install
 - Extract archive and rename to ```MatterHub```.
